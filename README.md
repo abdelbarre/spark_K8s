@@ -7,7 +7,7 @@ Spark Installation on Kubernetes Steps :
 - 3 Installation Of  Kubernetes
 - 4 Running Your First spark Code on Kubernetes
 
-## I.Spark Architecture
+## I. Spark Architecture
 
 ![Kiku](./sparkArchi.png)
 
