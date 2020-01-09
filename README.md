@@ -1,4 +1,4 @@
-# spark_K8s
+# Spark on Kubernetes (K8s)
 
 RoadMap Project :
 Spark Installation on Kubernetes Steps :
