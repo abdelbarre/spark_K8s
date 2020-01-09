@@ -1,2 +1,10 @@
 # spark_K8s
-Runnig Your  First Spark code on Kubernetes
+
+RoadMap Project :
+Spark Installation on Kubernetes Steps :
+- 1 Introduction and Architecture
+- 2 Installation Of spark 
+- 3 Installation Of  Kubernetes
+- 4 Running Your First spark Code on Kubernetes
+
+
